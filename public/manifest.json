@@ -1,6 +1,6 @@
 {
-  "short_name": "臺灣好天氣",
-  "name": "臺灣好天氣-即時縣市天氣",
+  "short_name": "Taiwan Weather",
+  "name": "Taiwan Weather Realtime App",
   "icons": [
     {
       "src": "logo192.png",
